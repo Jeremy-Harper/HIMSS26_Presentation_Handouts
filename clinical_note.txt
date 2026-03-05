@@ -1,0 +1,370 @@
+**Synthetic Patient Record**
+
+**Subject:** Comprehensive Admission History & Physical
+**Patient Name:** George Jetson Flintstone
+**MRN:** 8679309
+**DOB:** 01/01/1980
+**Date of Encounter:** [CURRENT DATE]
+**Provider:** Dr. FAE. KING, MD
+
+---
+
+**CHIEF COMPLAINT:**
+"Shortness of breath," "legs feel like lead," and worsening abdominal distension over the past two weeks.
+
+**HISTORY OF PRESENT ILLNESS:**
+This is a 68-year-old male with a complex past medical history significant for ischemic cardiomyopathy (LVEF 30-35% on last echo 4 months ago), coronary artery disease s/p CABG x4 in 2018, chronic kidney disease stage IIIb, type 2 diabetes mellitus complicated by neuropathy, and paroxysmal atrial fibrillation on chronic anticoagulation, who presents to the Emergency Department today via private vehicle, accompanied by his wife.
+
+The patient reports a gradual decline in functional status over the last 14 days. He states that typically he can walk to the mailbox (approx. 50 yards) without difficulty, but for the last week, he has had to stop halfway due to dyspnea and heaviness in his legs. He describes the dyspnea as "air hunger" rather than chest tightness. He denies active chest pain, pressure, or radiation to the arm or jaw, though he notes a vague, dull "heaviness" in the substernal area that resolves with rest, which he attributes to "indigestion."
+
+He reports a weight gain of approximately 12 pounds over the last 10 days despite "eating less than usual" due to early satiety. He notes that his abdomen feels tight and bloated. He has noticed increasing 2+ to 3+ pitting edema in his bilateral lower extremities, extending up to the mid-thighs, which is worse in the evening and only partially improved with elevation. He reports orthopnea requiring 3 pillows to sleep (baseline is 1-2) and has had multiple episodes of paroxysmal nocturnal dyspnea (PND) over the last three nights, waking up gasping for air and needing to sit on the edge of the bed for 30 minutes to recover.
+
+Review of systems is positive for occasional dry, non-productive cough, particularly when lying flat. He denies fevers, chills, or night sweats. No dysuria or hematuria, though he reports decreased urine output over the last 48 hours. He denies nausea or vomiting but endorses the aforementioned early satiety. No recent travel or sick contacts. He mentions he missed his Lasix doses for "a few days" last week because he was waiting on a pharmacy refill, but resumed them yesterday without significant relief.
+
+**PAST MEDICAL HISTORY:**
+
+1. **Ischemic Cardiomyopathy:** Diagnosed 2018. Last echo (09/2025) showed LVEF 30-35%, moderate MR, mild TR.
+2. **Coronary Artery Disease:** s/p CABG x4 (LIMA-LAD, SVG-OM, SVG-RCA, SVG-Diag) in 2018. Routine cath 1 year ago showed patent grafts.
+3. **Atrial Fibrillation:** Paroxysmal. CHADS2-VASc score of 5. On Eliquis. Previous cardioversion in 2021 with maintenance of sinus rhythm for 18 months.
+4. **Type 2 Diabetes Mellitus:** Diagnosed 2010. Last HbA1c 7.8%. Complicated by peripheral neuropathy and mild background retinopathy.
+5. **Chronic Kidney Disease:** Stage IIIb, attributed to DM and HTN. Baseline creatinine 1.6-1.8 mg/dL.
+6. **Hypertension:** Long-standing.
+7. **Hyperlipidemia.**
+8. **Obstructive Sleep Apnea:** Uses CPAP intermittently (compliance poor per wife).
+9. **Gout:** Last flare 2023, left great toe.
+10. **BPH:** Managed with Flomax.
+
+**PAST SURGICAL HISTORY:**
+
+* CABG x4 (2018)
+* Appendectomy (1975)
+* Right inguinal hernia repair with mesh (2005)
+* Left knee arthroscopy (2012)
+* Colonoscopy (2024) – 2 tubular adenomas removed, otherwise normal.
+
+**MEDICATIONS (Prior to Admission):**
+
+1. **Entresto (sacubitril/valsartan):** 49/51 mg PO BID.
+2. **Carvedilol:** 12.5 mg PO BID.
+3. **Furosemide:** 40 mg PO daily (Patient states he sometimes takes an extra half pill if swelling is bad, but missed doses recently).
+4. **Spironolactone:** 25 mg PO daily.
+5. **Apixaban (Eliquis):** 5 mg PO BID.
+6. **Metformin:** 500 mg PO BID.
+7. **Empagliflozin (Jardiance):** 10 mg PO daily.
+8. **Atorvastatin:** 40 mg PO daily.
+9. **Tamsulosin:** 0.4 mg PO daily.
+10. **Allopurinol:** 100 mg PO daily.
+11. **Gabapentin:** 300 mg PO TID PRN for neuropathy pain.
+
+**ALLERGIES:**
+
+* **Penicillin:** Reports "rash" in childhood.
+* **Lisinopril:** Developed angioedema (swollen lips) in 2016.
+* **Shellfish:** Anaphylaxis.
+
+**FAMILY HISTORY:**
+
+* **Father:** Deceased at 72, MI.
+* **Mother:** Deceased at 88, Stroke.
+* **Brother:** Alive, 65, has HTN and "heart rhythm issues."
+* **Sister:** Alive, 70, T2DM.
+
+**SOCIAL HISTORY:**
+Retired truck driver. Lives with wife in a single-story home. 3 steps to enter. Former smoker (1 ppd x 30 years, quit in 2018 prior to surgery). Drinks alcohol socially (1-2 beers/week), denies recent heavy intake. Denies illicit drug use. Diet is ostensibly "low salt," but wife notes he adds salt at the table and enjoys processed deli meats.
+
+---
+
+**REVIEW OF SYSTEMS:**
+As per HPI.
+
+* **Constitutional:** Fatigue, weight gain. No fever.
+* **Eyes:** Uses reading glasses. No acute vision changes.
+* **ENT:** No sore throat or rhinorrhea.
+* **CV:** Dyspnea on exertion, orthopnea, PND, pedal edema. Denies palpitations or syncope.
+* **Resp:** Occasional dry cough. No wheezing.
+* **GI:** Abdominal bloating, early satiety. No melena or hematochezia. Constipation (BM every 3 days).
+* **GU:** Decreased urine stream, nocturia x3.
+* **Musculoskeletal:** Generalized weakness, chronic low back pain.
+* **Neuro:** Numbness/tingling in feet (chronic). No focal weakness.
+* **Psych:** Anxiety regarding hospitalization.
+
+---
+
+**PHYSICAL EXAMINATION:**
+
+**Vitals:**
+
+* **BP:** 108/68 mmHg (right arm, sitting)
+* **HR:** 92 bpm (irregularly irregular)
+* **RR:** 22 breaths/min (labored)
+* **Temp:** 98.4°F (36.9°C)
+* **SpO2:** 91% on room air, improves to 95% on 2L NC
+* **Weight:** 108.4 kg (reported baseline 102 kg)
+* **BMI:** 34.2
+
+**General:**
+Patient is an obese male, appearing stated age, in mild respiratory distress. He is sitting upright on the side of the stretcher, leaning forward slightly. Alert and oriented x4. Conversational but speaks in short sentences due to dyspnea.
+
+**HEENT:**
+Normocephalic, atraumatic. PERRLA, EOMI. Sclera anicteric. Mucous membranes are slightly dry. Jugular venous distension (JVD) is present, estimated at 12-14 cm H2O. Carotid upstrokes are 2+ and equal; no bruits auscultated.
+
+**Neck:**
+Supple, no lymphadenopathy or thyromegaly.
+
+**Cardiovascular:**
+Tachycardic, irregularly irregular rhythm consistent with atrial fibrillation. A grade II/VI holosystolic murmur is audible at the apex, radiating to the axilla. S1 and S2 normal. S3 gallop is appreciated. No pericardial rub. PMI is displaced laterally to the anterior axillary line.
+
+**Lungs:**
+Respiratory effort is increased. Auscultation reveals diffuse crackles (rales) at the bilateral bases, extending up to the mid-scapular fields. Diminished breath sounds at the right base suggestive of possible effusion. Occasional expiratory wheeze noted in upper fields. No stridor.
+
+**Abdomen:**
+Abdomen is soft but distended. Mild tenderness to palpation in the right upper quadrant (RUQ), likely congestive hepatopathy. Liver edge is palpable 3 cm below the costal margin, smooth and tender. Positive hepatojugular reflux. Bowel sounds are hypoactive in all four quadrants. No rebound or guarding. No pulsatile masses.
+
+**Extremities:**
+Extremities are warm. 3+ pitting edema present bilaterally to the mid-thighs. Chronic venous stasis changes noted with hyperpigmentation (hemosiderin deposition) on shins. Peripheral pulses: Radial 2+, DP 1+ bilaterally (difficult to palpate due to edema), PT 1+. No clubbing or cyanosis.
+
+**Neurological:**
+Cranial nerves II-XII grossly intact. Strength 5/5 in upper extremities, 4+/5 in lower extremities bilaterally (limited by effort/edema). Sensation to light touch decreased in a stocking distribution up to mid-calves. Gait not assessed due to dyspnea.
+
+**Skin:**
+Intact, no acute rashes or breakdown. Surgical scar on chest (sternotomy) is well-healed. Venous harvest sites on legs well-healed.
+
+---
+
+**DIAGNOSTIC DATA:**
+
+**Labs (Collected in ED):**
+
+* **CBC:**
+* WBC: 8.4 k/uL
+* Hgb: 11.2 g/dL (Chronically 11-12)
+* Hct: 34.1%
+* Plt: 185 k/uL
+
+
+* **BMP:**
+* Na: 133 mmol/L (Mild hyponatremia)
+* K: 4.8 mmol/L
+* Cl: 98 mmol/L
+* CO2: 24 mmol/L
+* BUN: 42 mg/dL (Elevated)
+* Cr: 2.1 mg/dL (Baseline 1.6-1.8 - AKI present)
+* Gluc: 198 mg/dL
+
+
+* **Cardiac Biomarkers:**
+* Troponin I: 0.04 ng/mL -> 0.05 ng/mL (1 hour later). Mild elevation likely demand/chronic vs. acute injury.
+* BNP: 1840 pg/mL (Baseline ~400).
+
+
+* **Coags:**
+* INR: 1.4
+
+
+* **Liver Function:**
+* AST: 55 U/L
+* ALT: 48 U/L
+* Tbili: 1.2 mg/dL
+* Alb: 3.4 g/dL
+
+
+* **TSH:** 2.4 mIU/L
+
+**EKG (14:30):**
+Atrial fibrillation with rapid ventricular response (RVR), rate ~105-115 bpm. Left bundle branch block (LBBB) - known old per prior records. No acute ST-T wave changes compared to EKG from 2024. Q waves in V1-V2 (old anterior infarct).
+
+**Chest X-Ray (Portable):**
+Significant pulmonary vascular congestion with cephalization of vessels. Bilateral pleural effusions, right greater than left. Cardiomegaly noted with enlarged cardiac silhouette. No focal consolidation to suggest pneumonia. Sternotomy wires intact.
+
+**Point of Care Ultrasound (POCUS):**
+
+* **Lungs:** B-lines present in >3 zones bilaterally (suggestive of pulmonary edema).
+* **Heart:** Severely reduced LV function, global hypokinesis. IVC dilated (>2.5 cm) with <50% collapse with sniff.
+
+---
+
+**ASSESSMENT & PLAN:**
+
+**1. Acute Decompensated Heart Failure (ADHF):**
+The patient presents with classic signs and symptoms of volume overload: 12lb weight gain, orthopnea, PND, increasing peripheral edema, and radiographic evidence of pulmonary edema. Etiology is likely multifactorial: dietary indiscretion (sodium load), medication non-compliance (missed Lasix), and possibly the progression of underlying cardiorenal syndrome. The clinical picture is consistent with "wet and warm" profile (perfusing well but congested).
+
+* **Diuresis:** Will initiate aggressive IV diuresis. Admit to Telemetry.
+* Start Furosemide 80 mg IV BID (2x home dose conversion).
+* Monitor strict Intake & Output (I/O). Daily weights.
+* Target net negative fluid balance of 1-2 liters/day.
+* If no significant response (>500ml urine) within 4 hours, will escalate dose to 100mg IV or consider adding Metolazone 2.5mg PO 30 mins prior to Lasix.
+
+
+* **Neurohormonal Blockade:**
+* Hold Entresto (Sacubitril/Valsartan) temporarily in setting of AKI (Cr 2.1) and hypotension risk during aggressive diuresis. Will restart once renal function stabilizes and volume status improves.
+* Continue Carvedilol 12.5 mg BID – careful monitoring of HR/BP. Do not up-titrate currently.
+* Continue Spironolactone 25 mg daily.
+* Continue Jardiance (Empagliflozin) – benefit in HF, but monitor for euglycemic DKA/GU infections.
+
+
+* **Monitoring:** Continuous telemetry for arrhythmia. Oxygen 2L NC to keep SpO2 >92%.
+* **Assessment:** Echocardiogram ordered for tomorrow to reassess EF and valvular function (last was 4 months ago, possible worsening MR?).
+
+**2. Acute Kidney Injury (AKI) on Chronic Kidney Disease (CKD):**
+Creatinine is elevated to 2.1 mg/dL from a baseline of 1.6-1.8 mg/dL. This is likely Cardiorenal Syndrome Type 1 (acute cardiac decompensation leading to renal dysfunction) vs. pre-renal etiology from prior intravascular depletion/poor perfusion despite total body volume overload.
+
+* **Plan:** Expect creatinine may bump transiently with diuresis. Will tolerate mild rise (up to 2.5) if patient is clinically improving (breathing better).
+* Avoid nephrotoxins (NSAIDs, contrast dye).
+* Renal dose adjustments for medications as needed.
+
+**3. Atrial Fibrillation:**
+Patient is in Afib with RVR (rates 100-110s). He is chronically anticoagulated.
+
+* **Rate Control:** Continue Carvedilol. If rates remain consistently >110 bpm, will consider adding low dose Digoxin (0.125mg every other day given renal function) or Amiodarone load, though avoiding Amio if possible due to lung/thyroid risks.
+* **Stroke Prevention:** Continue Apixaban (Eliquis). Confirmed last dose taken this morning. CHADS2-VASc = 5 (High risk).
+
+**4. Type 2 Diabetes Mellitus:**
+Admit sugars are elevated (198 mg/dL).
+
+* **Plan:** Continue Metformin (hold if Cr > 2.5). Continue Jardiance.
+* Start Sliding Scale Insulin (Lispro) AC/HS.
+* Fingersticks QID.
+
+**5. Peripheral Neuropathy:**
+Continue Gabapentin 300 mg TID. Monitor for sedation.
+
+**6. Electrolytes:**
+Mild hyponatremia (133) likely dilutional/hypervolemic. Should correct with fluid restriction and diuresis.
+Potassium 4.8 – monitor closely as Lasix will waste K+ and Spironolactone will retain it. Replete K+ to keep >4.0 and Mg >2.0 to prevent arrhythmias.
+
+**7. Prophylaxis:**
+
+* **DVT:** Covered by therapeutic anticoagulation (Apixaban).
+* **GI:** Not indicated for stress ulcer prophylaxis currently (not intubated, no coagulopathy).
+
+**8. Disposition:**
+Patient requires inpatient management for stabilization of respiratory status and volume overload. Not a candidate for observation. Full Code.
+
+---
+
+**Detailed Narrative Note & Clinical Reasoning Addendum:**
+
+I had a lengthy discussion with the patient and his wife regarding the plan of care. The patient expressed frustration, stating, "I thought I was doing everything right," despite the admission of missing Lasix doses and eating ham sandwiches earlier in the week. I explained that with a heart function of 30-35%, his "margin for error" is very slim. A few salty meals or missed pills can tip the scales into fluid overload rapidly.
+
+There is a subtle contradiction in his history; he initially claimed strict adherence to a low-salt diet but later joked about the "salt shaker being his best friend," which his wife confirmed with a heavy sigh. We need to reinforce dietary education. I have placed a consult for the unit dietitian to see them together.
+
+Regarding his shortness of breath, while volume overload is the primary driver, we must not rule out a "silent" ischemic event or PE, although less likely given chronic anticoagulation. The troponin leak is minimal and stable, favoring demand ischemia from the tachycardia and wall stress rather than ACS. However, if he develops chest pain or EKG changes, we will pivot to an ACS protocol.
+
+There is also a possibility of worsening valvular disease. His murmur seemed louder today than documented in previous outpatient notes. If the echo shows severe MR, we might need to discuss MitraClip or other interventions down the road, though he is a high surgical risk.
+
+For now, the priority is getting the fluid off without tanking his kidneys. It is a delicate balance. I explicitly told him that "we might see the kidney numbers look a little worse before they get better," preparing them for the likely creatinine bump tomorrow.
+
+**Follow-up Planning:**
+Assuming he diureses well (goal 5-7 liters net negative over the stay), we aim for discharge in 3-4 days.
+
+* He will need labs re-checked daily.
+* **Physical Therapy** consult to assess safety for discharge home, given his reported weakness.
+* **Follow-up scheduled in 3 months** with Cardiology seems too distant given this decompensation; I will ask his outpatient cardiologist to move this up to 1-2 weeks post-discharge.
+* Possible recurrence of this fluid overload is high if compliance remains an issue. We discussed the "Heart Failure Zone Tool" (Green/Yellow/Red zones) for self-monitoring at home.
+
+**Dictated by:** Dr. J. Harper, MD
+**Time:** 16:45
+**Status:** Signed electronically.
+
+---
+
+**ADDENDUM - Nursing Note (19:00):**
+Patient resting comfortably in bed. O2 sat 96% on 2L NC. BP 102/64. Urine output since admission (approx 3 hours) is 850 mL of clear yellow urine. Patient requested a sandwich, reminded of sodium restriction; provided with low-sodium broth and crackers instead. Wife left for the evening. Call light within reach. Will continue to monitor respiratory effort.
+
+**ADDENDUM - Laboratory Update (21:30):**
+Repeat Potassium level: 3.6 mmol/L.
+Action: 40 mEq KCl PO x1 ordered and administered. Will recheck K in AM BMP.
+
+**Continued Hospital Course (Simulated - Day 2):**
+
+**Subject:** Progress Note - Day 2
+**Provider:** Dr. Sarah Chen, Hospitalist (Covering)
+
+**Subjective:**
+Patient states he "slept a bit better" last night but still needed to sit up around 3 AM for a while. Feels his breathing is "maybe 10% better." He voices complaints of urinary urgency due to the diuretic. No chest pain. No palpitations. He ate 50% of breakfast (oatmeal, fruit).
+
+**Objective:**
+**Vitals:**
+T: 98.1, HR: 88-94 (Afib), BP: 105/65, RR: 20, SpO2: 95% on 2L NC.
+**I/O:**
+Input: 1200 mL (PO + IV meds)
+Output: 2400 mL urine. Net Negative: -1.2 Liters.
+**Weight:**
+107.1 kg (Down 1.3 kg from admission).
+**Exam:**
+JVD visually improved, estimated 10 cm. Lungs still with crackles at bases but improved from mid-fields. Heart RRR (Note: This contradicts the telemetry strip and Vitals showing Afib - likely a copy/paste error or mis-auscultation, actually Irregularly Irregular). 2+ edema remains.
+**Labs:**
+Na: 135
+K: 4.1 (repleted)
+BUN: 48 (up)
+Cr: 2.3 (up from 2.1) - "Permissive AKI" anticipated.
+
+**Assessment/Plan:**
+ADHF, improving.
+Diuresis is effective. Net negative 1.2L is on target.
+Creatinine bump (2.1 -> 2.3) is expected hemoconcentration.
+Plan:
+
+1. Continue Lasix 80mg IV BID.
+2. Hold ACE/ARB/ARNI still.
+3. Continue other cardiac meds.
+4. Advance diet to Cardiac/2g Sodium.
+5. Encourage ambulation in halls with nursing assist.
+
+**Continued Hospital Course (Simulated - Day 3):**
+
+**Subject:** Progress Note - Day 3
+**Provider:** Dr. J. Harper, MD
+
+**Subjective:**
+Significant improvement today. "I can breathe again, Doc." No PND last night. Slept flat on 2 pillows. Ambulated in hallway for 100 feet without significant dyspnea. Wife is present and engaged in discharge planning.
+
+**Objective:**
+**Vitals:** BP 110/72, HR 82, RR 16, SpO2 97% on Room Air (weaned off O2 this AM).
+**Weight:** 105.5 kg (Total loss ~3 kg).
+**Labs:**
+Cr: 1.9 (Improving, trending back to baseline).
+K: 4.2.
+**Echo Result (Preliminary):** LVEF 30%. Moderate-Severe MR (worsened slightly). Dilated LA. RVSP 45 mmHg.
+
+**Assessment/Plan:**
+Patient compensated. Euvolemic status approaching.
+
+1. Transition to PO Diuretics tomorrow. Will need to increase home dose given severity of this exacerbation.
+* Plan for Torsemide 20 mg PO daily (better absorption in gut edema) instead of Furosemide.
+
+
+2. Restart Entresto tomorrow at half dose (24/26 mg) since Cr is improving and BP is stable >100 systolic.
+3. Discharge likely Day 4 or 5.
+
+**Documentation Query:**
+Dr. Harper,
+Please clarify the diagnosis of "Pneumonia" listed in the problem list. CXR report from admission states "No focal consolidation." Is this an active problem being treated?
+*Reply:* Error in problem list carrying over from previous admission. Patient does NOT have pneumonia. Removed.
+
+**DISCHARGE SUMMARY (Draft):**
+**Diagnoses:**
+
+1. Acute on Chronic Diastolic and Systolic CHF (EF 30%).
+2. Acute Kidney Injury (resolved).
+3. Atrial Fibrillation.
+
+**Discharge Medications:**
+
+1. **Entresto:** 24/26 mg BID (Reduced dose, titrate output).
+2. **Torsemide:** 20 mg PO Daily (Changed from Furosemide).
+3. **Carvedilol:** 12.5 mg BID.
+4. **Spironolactone:** 25 mg Daily.
+5. **Eliquis:** 5 mg BID.
+6. **Jardiance:** 10 mg Daily.
+... [Remainder of med list]
+
+**Patient Instructions:**
+Weigh yourself every morning after urinating and before breakfast. Call doctor if weight goes up 3 lbs in a day or 5 lbs in a week.
+Avoid NSAIDs (Advil, Aleve, Motrin) - they hurt your kidneys and hold onto water.
+Follow-up with Dr. Smith (Cardiology) on Tuesday, [DATE].
+Follow-up with Dr. Harper (PCP) in 2 weeks.
+
+**Condition at Discharge:** Stable.
+**Prognosis:** Fair. High risk of readmission if dietary/medication adherence is not maintained.
+
